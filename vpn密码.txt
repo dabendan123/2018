@@ -1,0 +1,39 @@
+华为
+
+guopengwei
+44443333Wo
+
+
+
+oa
+xxzx0012
+Gpw88888888
+
+
+正式
+env  pro
+xingxiao
+
+测试：
+env dev  183
+env FAT  211
+test1
+
+pc端
+apollo.env = FAT  test1 6066
+
+
+本地mysql
+root
+123456
+
+
+
+aws ftpuser
+ftpuser
+ftppwd123456
+
+
+禅道
+gpw
+123456
